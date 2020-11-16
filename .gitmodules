@@ -7,3 +7,9 @@
 [submodule "worlds/cpr_gazebo"]
 	path = worlds/cpr_gazebo
 	url = https://github.com/clearpathrobotics/cpr_gazebo.git
+[submodule "robots/warthog"]
+	path = robots/warthog
+	url = https://github.com/warthog-cpr/warthog.git
+[submodule "robots/jackal"]
+	path = robots/jackal
+	url = https://github.com/jackal/jackal.git
