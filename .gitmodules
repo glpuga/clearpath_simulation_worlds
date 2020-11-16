@@ -1,0 +1,9 @@
+[submodule "robots/husky"]
+	path = robots/husky
+	url = https://github.com/husky/husky.git
+[submodule "other/LMS1xx"]
+	path = other/LMS1xx
+	url = https://github.com/clearpathrobotics/LMS1xx.git
+[submodule "worlds/cpr_gazebo"]
+	path = worlds/cpr_gazebo
+	url = https://github.com/clearpathrobotics/cpr_gazebo.git
